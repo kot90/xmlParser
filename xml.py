@@ -18,4 +18,6 @@ print len(data)
 
 for j in data:
 	temp = j['description']
-	print temp.strip()
+	print temp
+
+#todo convert xml to JSON
